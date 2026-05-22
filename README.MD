@@ -1,5 +1,6 @@
 # Cloudflare 优选 IP
 
+**🆕新增**北京电信优选  
 **测试地**: 中国四川联通/北京电信  
 **更新频率**: 每45分钟自动更新  
 **本次更新**: 2026-05-22 14:31:36
@@ -9,7 +10,7 @@
 - **高速优选**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt`
 - **所有可用**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips.txt`    
 
-**北京电信**  
+**🆕北京电信**  
 - **高速优选**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips_bj.txt`
 - **所有可用**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips_bj.txt`  
 
