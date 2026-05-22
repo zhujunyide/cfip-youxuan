@@ -1,13 +1,17 @@
 # Cloudflare 优选 IP
 
-**测试地**: 中国四川联通  
+**测试地**: 中国四川联通/北京电信  
 **更新频率**: 每45分钟自动更新  
 **本次更新**: 2026-05-22 14:31:36
 
 ## 订阅链接
-
+**四川联通**  
 - **高速优选**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt`
-- **所有可用**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips.txt`
+- **所有可用**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips.txt`    
+
+**北京电信**  
+- **高速优选**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips_bj.txt`
+- **所有可用**：`https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips_bj.txt`  
 
 -**区别**:  
 **所有可用**是筛选出来每个地区延迟最低的前十个,不保证速度是最快的,适合二次自己测速.  
