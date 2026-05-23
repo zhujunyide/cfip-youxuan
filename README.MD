@@ -13,7 +13,7 @@
 | 线路分类 | 高速优选 (推荐) | 所有可用 (适合二次测速) |
 | --- | --- | --- |
 | **四川联通** | [点击复制](https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt) | [点击复制](https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips.txt) |
-| **北京电信 ✨** | [点击复制](https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips_bj.txt) | [点击复制](https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/full_ips_bj.txt) |
+| **北京电信 ✨** | [点击复制](http://cf.junzhen.qzz.io/best_ips_bj.txt) | [点击复制](https://cf.junzhen.qzz.io/full_ips_bj.txt) |
 
 ### 💡 链接区别说明
 
